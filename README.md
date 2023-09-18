@@ -8,9 +8,9 @@ Source code and data files for optimizing the daily operation of dual-axis solar
 This repository contains:
 
 - A CSV file with solar irradiance data (GHI, DHI, and DNI) for a 24-hour time horizon with a time resolution of 30 minutes. The data was obtained from the [National Solar Radiation Database
-(NSRDB)](https://nsrdb.nrel.gov/) 
-- MAT files of the solar position (azimuth and altitude) and shading factor approximations with a time resolution of 10 minutes. The solar position was calcuated using the Python package [pvlib](https://pvlib-python.readthedocs.io/en/stable/)
-- Julia code used to run optimization problem
+(NSRDB)](https://nsrdb.nrel.gov/). The file is named ```AnnArbor_2021_simple_july14_EDT.csv```.
+- A MAT file of the solar position (azimuth and altitude) and shading factor approximations with a time resolution of 10 minutes. The solar position was calcuated using the Python package [pvlib](https://pvlib-python.readthedocs.io/en/stable/). The file is named ```AdjustTilt_90range_13density_fullday.mat```.
+- Julia code used to run optimization problem, i.e., ```script.jl``` and ```apv_daily_problem.jl```.
 - Supplemental Matlab and Python files used to generate solar position and shading factor approximations
 
 # Publication
