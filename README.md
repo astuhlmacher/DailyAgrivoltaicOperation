@@ -1,7 +1,5 @@
 # DailyAgrivoltaicOperation
-Source code and data files for optimizing the daily operation of dual-axis solar photovoltaic (PV) panels within an agrivoltaic system, created by Anna Stuhlmacher. The code is demonstrated with a case study located at the University of Michigan's Campus Farm in Ann Arbor, Michigan (42.3N, 83.7W) on July 14, 2021. 
-
-
+Source code and data files for optimizing the daily operation of dual-axis solar photovoltaic (PV) panels within an agrivoltaic system, created by Anna Stuhlmacher.  The code is demonstrated with a case study located at the University of Michigan's Campus Farm in Ann Arbor, Michigan (42.3N, 83.7W) on July 14, 2021. This repository was developed based a conference paper titled 'Optimizing Dual-Axis Solar Panel Operation in an Agrivoltaic System and Implications for Power Systems' by Anna Stuhlmacher, Johanna L. Mathieu, and Peter Seiler within the Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS). 
 
 
 ## Description 
